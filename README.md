@@ -9,3 +9,5 @@ fact verification or information synthesis, where accuracy is paramount.
 
 ![image](https://github.com/Jeevan672/Self-consistency/assets/88030873/f897931f-118b-42e9-9d11-8f99fc700877)
 
+Research Paper # https://arxiv.org/pdf/2203.11171
+
